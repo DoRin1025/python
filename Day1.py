@@ -14,5 +14,3 @@ petName = input("What is your pet name? ")
 print("Your band name is " + cityName + " " + petName)
 
 
-
-test  test2
