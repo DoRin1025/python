@@ -24,3 +24,13 @@ print(2**2)
 
 print(3/3*3+3-3)
 
+
+# Calculate BMI
+
+bmi = 84 / 1.65 **2
+print(bmi)
+print(int(bmi)) # Numarul intreg
+print(round(bmi)) # Numarul rotund
+print(round(bmi, 2))
+
+print(6+4/2-(1*2))
